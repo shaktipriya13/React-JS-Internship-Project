@@ -1,6 +1,3 @@
-Here’s a professional yet interactive README for your React.js internship project:  
-
----
 
 # 🚀 ReactJS Internship Project  
 
@@ -15,7 +12,6 @@ This project was built as part of a **React.js internship qualifier task**. The 
 
 ## 🛠 Tech Stack  
 - **React.js** ⚛️ - Frontend framework  
-- **Tailwind CSS / Styled Components** 🎨 - Styling  
 - **React Router** 🚏 - For seamless page navigation  
 - **Vercel / Netlify** 🌍 - Deployment  
 
@@ -36,7 +32,7 @@ This project was built as part of a **React.js internship qualifier task**. The 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
 
 ## 🚀 Live Demo  
-🔗 Hosted Link: [Live Project](https://your-hosted-link.vercel.app)  
+🔗 Hosted Link: [Live Project](https://popx-shakti.netlify.app)  
 
 ## 📂 Project Structure  
 ```
@@ -59,8 +55,8 @@ _(Attach some screenshots of your pages to make the README more interactive.)_
 
 ## 📬 Contact  
 For any questions or collaboration, feel free to reach out:  
-📧 Email: shaktipriya@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shaktipriya13)  
+📧 Email: shaktipriya34@example.com  
+🔗 Linkedin: [LinkedIn](https://www.linkedin.com/in/shaktipriya13)  
 
 ---
 
