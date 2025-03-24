@@ -12,7 +12,7 @@ const WelcomeScreen = () => {
                     <h2>Welcome to PopX</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
-                    <Link to="/login">
+                    <Link to="/signup">
                         <button className="create-btn">Create Account</button>
                     </Link>
 

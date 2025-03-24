@@ -9,7 +9,7 @@ h2 {
 /* Center the login container */
 /* Green container (Full-page container) */
 .login-container {
-    /* border: 2px solid green; */
+    border: 2px solid #ECECEC;
     /* Green border */
     display: flex;
     justify-content: center;
