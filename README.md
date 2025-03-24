@@ -32,7 +32,7 @@ This project was built as part of a **React.js internship qualifier task**. The 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
 
 ## 🚀 Live Demo  
-🔗 Hosted Link: [Live Project](https://popx-shakti.netlify.app)  
+🔗 Hosted Link: [Live Project](https://pop-x-shakti.netlify.app/)  
 
 ## 📂 Project Structure  
 ```
