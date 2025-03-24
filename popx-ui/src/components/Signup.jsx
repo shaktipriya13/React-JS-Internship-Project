@@ -99,7 +99,10 @@ const Signup = () => {
                         </label>
                     </div>
 
-                    <button type="submit">Create Account</button>
+
+                    <Link to="/profile">
+                        <button type="submit">Create Account</button>
+                    </Link>
                 </form>
             </div>
         </div>
