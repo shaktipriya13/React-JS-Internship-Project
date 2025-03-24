@@ -1,0 +1,84 @@
+body{
+    background-color: #FAFAFA;
+}
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+/* Center the login container */
+/* Green container (Full-page container) */
+.login-container {
+    /* border: 2px solid green; */
+    /* Green border */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* Align items to the top */
+    height: 100vh;
+    background-color: #F7F8F9;
+    /* padding-top: 20px; */
+    /* Add some spacing from the top */
+}
+
+/* Red box (Login box) */
+.login-box {
+    color: black;
+    /* border: 2px solid red; */
+    /* Red border */
+    background: #F7F8F9;
+    padding: 30px;
+    width: 350px;
+    /* border-radius: 10px; */
+    /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); */
+    text-align: left;
+}
+/* Title and description */
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 14px;
+    color: #8F9295;
+    margin-bottom: 20px;
+}
+
+/* Label styles */
+label {
+    display: block;
+    font-weight: bold;
+    color: #9766FD;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* Input fields */
+input {
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Login button */
+.login-btn {
+    width: 100%;
+    background-color: #CBCBCB;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: not-allowed;
+    margin-top: 20px;
+}
+
+
+
+
